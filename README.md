@@ -1,6 +1,6 @@
 #  Aleatory - MD 
 <div align="center">
-<img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory BOT - MD" width="300" />
+<img src="https://telegra.ph/file/1ff562e5d7994f152e45c.jpg" alt="Aleatory BOT - MD" width="300" />
 
 </div>
 <p align="center">
